@@ -15,8 +15,6 @@ I’m Sameer Giri, a BCA student passionate about Computer Science and Programmi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sameergiri170&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sameergiri170&icon=0&color=0)](https://visitcount.itsvg.in)
