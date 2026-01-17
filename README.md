@@ -17,11 +17,11 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c" height="60" width="60">  
 <img src="https://skillicons.dev/icons?i=cpp" height="60" width="60">
-<img src="https://skillicons.dev/icons?i=python" height="60" width="60">
-<img src="https://skillicons.dev/icons?i=js" height="60" width="60">
-<img src="https://skillicons.dev/icons?i=nodejs" height="60" width="60">
 <img src="https://skillicons.dev/icons?i=html" height="60" width="60">
 <img src="https://skillicons.dev/icons?i=css" height="60" width="60">
+<img src="https://skillicons.dev/icons?i=js" height="60" width="60">
+<img src="https://skillicons.dev/icons?i=python" height="60" width="60">
+<img src="https://skillicons.dev/icons?i=nodejs" height="60" width="60">
 </div>
 
 # 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 :
@@ -56,5 +56,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E&height=80&section=footer&animation=twinkling"/>
 </p>
-
-
